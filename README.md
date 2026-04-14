@@ -64,13 +64,6 @@ The initial version is intentionally designed as a strong internship portfolio p
    - `notebooks/05_match_prediction.ipynb`
    - `notebooks/06_explain_predictions.ipynb`
 
-## Internship-Relevant Skills Demonstrated
-- Data ingestion and feature engineering
-- Rule-based + ML hybrid decision systems
-- NLP-style query handling
-- Model training, evaluation, and explainability
-- Production-minded project structure for GitHub
-
 ## Next Version Ideas
 - Replace sample fixtures with live sports API integration
 - Add Telegram/Discord/Email notification delivery
