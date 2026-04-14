@@ -1,4 +1,4 @@
-# AI Sports Assistant - Project 1
+# AI Sports Assistant
 
 [![Python](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)](https://jupyter.org/)
