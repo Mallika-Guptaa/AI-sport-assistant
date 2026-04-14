@@ -15,10 +15,6 @@ This project turns match reminders into an AI-assisted fan experience:
 - It supports natural-language interaction for quick answers.
 - It includes predictive insights with explainable reasoning.
 
-The initial version is intentionally designed as a strong internship portfolio piece:
-- Clean modular Python architecture
-- End-to-end runnable notebooks
-- Practical ML baseline with human-readable explanations
 
 ## Features
 - Upcoming match reminders (1 day and 1 hour before)
