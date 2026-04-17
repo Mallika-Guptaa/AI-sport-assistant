@@ -103,12 +103,6 @@ delivery_log
 
 Set `dry_run=False` when your SMTP settings are ready and you want to actually send the emails.
 
-## Internship-Relevant Skills Demonstrated
-- Data ingestion and feature engineering
-- Rule-based + ML hybrid decision systems
-- NLP-style query handling
-- Model training, evaluation, and explainability
-- Production-minded project structure for GitHub
 
 ## Next Version Ideas
 - Add Telegram/Discord notification delivery alongside email
